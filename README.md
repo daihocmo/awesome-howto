@@ -30,3 +30,6 @@ Mind-blowing ways to do things.
 - [Allen Carr's Easy Way To Stop Smoking](https://www.amazon.com/Allen-Carrs-Easy-Stop-Smoking/dp/0615482155)
 - [quiteasily](https://quiteasily.org/) - Quitting addictions easily and without willpower
 
+
+## Game
+- [Project Sekai Tips, Tricks, and Help Compliation](https://docs.google.com/document/d/16ln3Iaxtr0FBF032SOoljvWoiK8hcBJQKzZMKhcMvas/edit?tab=t.0#heading=h.9oqfetdd55c8)
